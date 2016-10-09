@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: SebGlazebrook
+Label: SebGlazebrook Github
+Architecture: amd64
+Description: Debian amd64 packages hosted on sebglazebrook's github

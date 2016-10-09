@@ -1,0 +1,7 @@
+Origin: SebGlazebrook
+Label: SebGlazebrook Github
+Suite: stable
+Codename: jessie
+Architectures: amd64
+Components: main
+Description: Debian amd64 packages hosted on sebglazebrook's github
