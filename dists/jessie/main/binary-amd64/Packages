@@ -28,3 +28,18 @@ MD5sum: 610d219863af933ad6caa97ec462ba53
 Description: Seb Dev Env
  Install all that's needed for Seb to dev
 
+Package: sebgdotfiles
+Version: 0.1.0
+Architecture: amd64
+Depends: git (>= 1:2.1.4-2.1)
+Maintainer: Seb Glazebrook <sebastianglazebrook@gmail.com>
+Priority: optional
+Section: utils
+Filename: pool/main/s/sebgdotfiles/sebgdotfiles_0.1.0_amd64.deb
+Size: 896
+SHA256: 8d121425d21b0e12b213f27e19a54df655e78432065af115c51630f1470389ff
+SHA1: ea33823143e6b0e9468a99b8cbd33eab613069f5
+MD5sum: 7c6618049f7895fc52b4419608f5297f
+Description: SebG's Dotfiles
+ Get your dotfiles going on
+
