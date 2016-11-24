@@ -16,3 +16,20 @@ echo " deb http://cdn.rawgit.com/sebglazebrook/debian-pkg-repo/${LATEST_RELEASE}
 
 sudo apt-get update
 ```
+
+Adding new packages
+===================
+
+```
+# copy the deb file to this dir
+cp ../some-other-dir/cool.deb .
+
+# build the docker container
+docker build -t deb-repo-temp .
+
+# start the docker container
+docker run -ti -v ${PWD}:/code deb-repo-temp bash
+
+# inside the container add the new deb package
+cs /code && reprepro includedeb jessie cool.deb
+```
