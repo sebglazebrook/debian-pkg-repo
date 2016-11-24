@@ -31,5 +31,5 @@ docker build -t deb-repo-temp .
 docker run -ti -v ${PWD}:/code deb-repo-temp bash
 
 # inside the container add the new deb package
-cs /code && reprepro includedeb jessie cool.deb
+cd /code && reprepro includedeb jessie cool.deb
 ```

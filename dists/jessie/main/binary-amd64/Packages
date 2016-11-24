@@ -14,17 +14,17 @@ Description: Aliases
  Something else here
 
 Package: seb-dev-env
-Version: 0.5.2
+Version: 0.6.0
 Architecture: amd64
 Depends: git (>= 1:2.1.4-2.1), vim (>= 2:7.4.488-7), tmux (>= 1.9-6), apt-transport-https (>= 1.0.9.8.3), ca-certificates (>= 20141019), python-pip (>= 1.5.6-5), docker-engine (>= 1.5.0-0), aliases (>= 0.8.0), curl (>=7.38.0-4), seb-dotfiles (>= 0.1.1)
 Maintainer: Seb Glazebrook <sebastianglazebrook@gmail.com>
 Priority: optional
 Section: base
-Filename: pool/main/s/seb-dev-env/seb-dev-env_0.5.2_amd64.deb
-Size: 1170
-SHA256: 29483e2d828789595d0c1177dac1c2d31afd86e1d11ef65b84bd788d95200c8e
-SHA1: 09af2e9b38e1d1e7d342ed85334924eb0ad2db23
-MD5sum: e786ab2ff8a8a87c46997a50da9775f0
+Filename: pool/main/s/seb-dev-env/seb-dev-env_0.6.0_amd64.deb
+Size: 1218
+SHA256: ca0753f3bae709e84aeb63703e6e28ad375010ce5047e02edea94b9b3827c6c5
+SHA1: 284dda6ac68df2946b97622f71d49bef7c47ff30
+MD5sum: 0dc6b662d9d783f9f2de28531912380c
 Description: Seb Dev Env
  Install all that's needed for Seb to dev
 

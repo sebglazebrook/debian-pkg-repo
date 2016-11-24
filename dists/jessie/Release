@@ -2,19 +2,19 @@ Origin: SebGlazebrook
 Label: SebGlazebrook Github
 Suite: stable
 Codename: jessie
-Date: Thu, 24 Nov 2016 13:00:15 UTC
+Date: Thu, 24 Nov 2016 13:32:06 UTC
 Architectures: amd64
 Components: main
 Description: Debian amd64 packages hosted on sebglazebrook's github
 MD5Sum:
- f12a7386f715c5b5de0dcceebd40ca07 2091 main/binary-amd64/Packages
- 8b9afab040bb3bdba1b7017b5eccf3e1 911 main/binary-amd64/Packages.gz
+ 50e774fa936c9a8e391f33ca1cda4405 2091 main/binary-amd64/Packages
+ 50c0698eb5da19cea8bb48a736654fe7 915 main/binary-amd64/Packages.gz
  f5b7612b35ec65d04ceee484f390fb7a 170 main/binary-amd64/Release
 SHA1:
- 7b0bc2e2689747ea5bfaa52c82b97528b230996d 2091 main/binary-amd64/Packages
- b7305fec72d947a97023007885cdc556e3618ca7 911 main/binary-amd64/Packages.gz
+ 74bb9b44051f44fd640dbaefa88ea490a80af1d6 2091 main/binary-amd64/Packages
+ 92dd2553d92d4e001867198b2cf2d2a7b122a876 915 main/binary-amd64/Packages.gz
  f90955d24a57a13759d251ad9431a2c1adacede9 170 main/binary-amd64/Release
 SHA256:
- f62fd82ab3a35bd763331937a800a7223c601581819044ebc9534e4afb2ba400 2091 main/binary-amd64/Packages
- 3ccb6de0f881d6732b4cf75530a81aa1a2cc2eb35ec6189bbd347ff486a0721e 911 main/binary-amd64/Packages.gz
+ ded9e4412b53c91c00e2e372bb35e5fe2d17ae7cb1717bde9813952c1e3c414b 2091 main/binary-amd64/Packages
+ 1aee7669a030ae422a7f2ce67aa8f20217525d494b6b1942373c0e63294d058e 915 main/binary-amd64/Packages.gz
  d7211cbb6f587343101e4c821c27024f3873370f8215baaf7ef7e13d6f2ebb4d 170 main/binary-amd64/Release
