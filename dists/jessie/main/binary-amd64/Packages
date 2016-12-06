@@ -13,6 +13,20 @@ Description: Aliases
  Something here
  Something else here
 
+Package: fzf
+Version: 0.15.8
+Architecture: amd64
+Maintainer: Seb Glazebrook <sebastianglazebrook@gmail.com>
+Priority: optional
+Section: base
+Filename: pool/main/f/fzf/fzf_0.15.8_amd64.deb
+Size: 733092
+SHA256: b5c7ad3ede448ea059117df7afabc77a58c67a070414f31d2a69d1a9a20f0dcb
+SHA1: 8c2a86fb748d10cdd9aa87a8a660e2a05da06044
+MD5sum: 9632a8c5deefab264443f7d0ef3cd4dc
+Description: FZF
+  Command line fuzzy finder
+
 Package: seb-dev-env
 Version: 0.7.0
 Architecture: amd64
