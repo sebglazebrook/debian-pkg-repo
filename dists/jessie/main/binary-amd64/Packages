@@ -28,17 +28,17 @@ Description: FZF
   Command line fuzzy finder
 
 Package: seb-dev-env
-Version: 0.8.0
+Version: 0.9.0
 Architecture: amd64
-Depends: git (>= 1:2.1.4-2.1), vim (>= 2:7.4.488-7), tmux (>= 1.9-6), apt-transport-https (>= 1.0.9.8.3), ca-certificates (>= 20141019), python-pip (>= 1.5.6-5), docker-engine (>= 1.5.0-0), aliases (>= 0.8.0), curl (>=7.38.0-4), seb-dotfiles (>= 0.1.1), silversearcher-ag (>=  0.26.0-1), fzf (>= 0.15.8 )
+Depends: git (>= 1:2.1.4-2.1), vim (>= 2:7.4.488-7), tmux (>= 1.9-6), apt-transport-https (>= 1.0.9.8.3), ca-certificates (>= 20141019), python-pip (>= 1.5.6-5), docker-engine (>= 1.5.0-0), aliases (>= 0.8.0), curl (>=7.38.0-4), seb-dotfiles (>= 0.1.1), silversearcher-ag (>=  0.26.0-1), fzf (>= 0.15.8 ), z (>= 0.1.0)
 Maintainer: Seb Glazebrook <sebastianglazebrook@gmail.com>
 Priority: optional
 Section: base
-Filename: pool/main/s/seb-dev-env/seb-dev-env_0.8.0_amd64.deb
-Size: 1250
-SHA256: 039b97293c3ff61c4fd6e32169fce3a0b1b0b2910a89619c6096270fbd1dbe76
-SHA1: 50ff1c8d61c7efc3aeebcde136f94b40f9dcfab4
-MD5sum: 72dc724f51f7a6c81e391dfc953503a1
+Filename: pool/main/s/seb-dev-env/seb-dev-env_0.9.0_amd64.deb
+Size: 1256
+SHA256: 7cf5ee34c5a19d3252176852648d32e2cad2fe6bb6c9591242d5ec0c9363f447
+SHA1: 1fa204b15a81f6131014e3884e56c49fcc80578f
+MD5sum: 45ea8c167b8185b64666443ca409ca53
 Description: Seb Dev Env
  Install all that's needed for Seb to dev
 
@@ -71,4 +71,18 @@ SHA1: ea33823143e6b0e9468a99b8cbd33eab613069f5
 MD5sum: 7c6618049f7895fc52b4419608f5297f
 Description: SebG's Dotfiles
  Get your dotfiles going on
+
+Package: z
+Version: 0.1.0
+Architecture: amd64
+Maintainer: Seb Glazebrook <sebastianglazebrook@gmail.com>
+Priority: optional
+Section: base
+Filename: pool/main/z/z/z_0.1.0_amd64.deb
+Size: 3554
+SHA256: 455b5de8ee3b0bfe44d2bed9dd67cf3cf38f864064b3bbaa69d2a089733b31a7
+SHA1: bb9321407d37cea43d48941643e9fd795c2c8ac4
+MD5sum: 2e262d9cf9279012053806a37a14bc82
+Description: z
+  Jump to directories with z
 
