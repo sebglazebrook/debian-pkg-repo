@@ -1,14 +1,14 @@
 Package: aliases
-Version: 0.8.0-devel
+Version: 0.8.0-devel+001
 Architecture: amd64
 Maintainer: Seb Glazebrook <sebastianglazebrook@gmail.com>
 Priority: optional
 Section: base
-Filename: pool/main/a/aliases/aliases_0.8.0-devel_amd64.deb
-Size: 671268
-SHA256: ea57437be9cd45a89daeeee4ed42cdadc3ea52c7058fb7a82414a984ab320f29
-SHA1: 7c0aa3593033de23b0a7580129b82477b55dba21
-MD5sum: 593fbaea592147f4eecd40a3db83a286
+Filename: pool/main/a/aliases/aliases_0.8.0-devel+001_amd64.deb
+Size: 1255740
+SHA256: 928e6c9cc14e85142f3e7936654d85e47a656663cd9b1a2be6d52637108c715e
+SHA1: 20e61f928b69b6dad842f831259eaf8cc0c42c16
+MD5sum: de193eaf946bcadf618c605ebb226c9a
 Description: Aliases
  Something here
  Something else here
