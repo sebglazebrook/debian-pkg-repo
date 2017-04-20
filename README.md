@@ -24,12 +24,6 @@ Adding new packages
 # copy the deb file to this dir
 cp ../some-other-dir/cool.deb .
 
-# build the docker container
-docker build -t deb-repo-temp .
-
-# start the docker container
-docker run -ti -v ${PWD}:/code deb-repo-temp bash
-
-# inside the container add the new deb package
-cd /code && reprepro includedeb jessie cool.deb
+# make sure you have (aliases)[https://github.com/sebglazebrook/aliases] installed
+add-package cool.deb
 ```
