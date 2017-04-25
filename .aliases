@@ -4,5 +4,7 @@
 
 build-image:
   command: docker build -t deb-repo-temp .
+run-container:
+  command: docker run -ti -v ${PWD}:/code deb-repo-temp
 add-package:
-  command: build-image && docker run -ti -v ${PWD}:/code deb-repo-temp reprepro includedeb jessie
+  command: build-image && run-container reprepro includedeb jessie
