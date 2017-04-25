@@ -5,10 +5,10 @@ Maintainer: Seb Glazebrook <sebastianglazebrook@gmail.com>
 Priority: optional
 Section: base
 Filename: pool/main/a/aliases/aliases_0.8.1_amd64.deb
-Size: 1334304
-SHA256: ae531328b96a9b83a38021ecadf400788aec0b767abb42c4790a7be31c1f836e
-SHA1: 96e50dbbff4953f64c6e5886d9c15a4addeb99fd
-MD5sum: 73c36cebaf9f7326be51aff325d63ac6
+Size: 1334450
+SHA256: 4b7749bec0b4d0373978fbd933d731bd5a6f4d5db0b82d7bc3f0ccf12dec0153
+SHA1: d50e79c855ee7cadc12028984c5d08965efb47a3
+MD5sum: 9ed5517b3a0db7b34dc8a9fbdc66ebbc
 Description: Aliases
  Something here
  Something else here
